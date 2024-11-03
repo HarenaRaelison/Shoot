@@ -1,3 +1,43 @@
+------------------------------------------------------------------------------
+
+Jeu de Tir - Esquivez les cibles
+------------------------------------------------------------------------------
+
+Informations sur l'auteur
+Nom : RAELISON Harena Andriahaganirina
+Numéro Matricule : 324I22
+Mention : Informatique
+Parcours : Développement d'application intranet et internet (DA2I)
+Niveau : Licence 3 (L3)
+
+------------------------------------------------------------------------------
+
+Description : 
+
+Ce projet est un jeu de tir simple développé en Python en utilisant la bibliothèque Pygame.
+Le jeu permet au joueur de tirer sur des cibles et de marquer des points en touchant celles-ci. 
+Des effets sonores sont inclus pour améliorer l'expérience de jeu.
+
+------------------------------------------------------------------------------
+Prérequis
+
+Python : Assurez-vous d'avoir Python 3.12.3 installé sur votre système.
+Pygame : Installez la bibliothèque Pygame en exécutant la commande suivante : python install pygame
+
+------------------------------------------------------------------------------
+Commandes du Jeu :
+
+Déplacement : Utilisez les touches Flèche gauche/droite ou A et D pour vous déplacer.
+Tir : Appuyez sur ESPACE pour tirer.
+
+------------------------------------------------------------------------------
+
+Remarques:
+Si vous rencontrez des problèmes lors de l'exécution, assurez-vous que vous utilisez 
+un système compatible avec l'exécutable fourni.
+------------------------------------------------------------------------------
+
+
 absl-py==2.1.0
 altgraph==0.17.4
 asgiref==3.8.1
