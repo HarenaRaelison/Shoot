@@ -27,7 +27,7 @@ Pygame : Installez la bibliothèque Pygame en exécutant la commande suivante : 
 ------------------------------------------------------------------------------
 Commandes du Jeu :
 
-Déplacement : Utilisez les touches Flèche gauche/droite ou A et D pour vous déplacer.
+Déplacement : Utilisez les touches direction pour vous déplacer.
 Tir : Appuyez sur ESPACE pour tirer.
 
 ------------------------------------------------------------------------------
